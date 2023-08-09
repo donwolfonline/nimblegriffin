@@ -168,7 +168,7 @@ const Footer = (prop) => {
               </div>
               <span>
                 {new Date().getFullYear()} (c) . Built by{' '}
-                <Button target={true} href="https://www.walid.biz/">
+                <Button target={true} href="https://beacons.ai/donwolfonline">
                   Frederick Dineen®.
                 </Button>{' '}
                 Powered by{' '}
