@@ -172,7 +172,7 @@ const Footer = (prop) => {
                   Frederick Dineen®.
                 </Button>{' '}
                 Powered by{' '}
-                <Button target={true} href="https://walid.biz/">
+                <Button target={true} href="https://beacons.ai/donwolfonline">
                   Frederick Dineen®.™
                 </Button>
               </span>
